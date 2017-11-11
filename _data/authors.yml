@@ -20,6 +20,12 @@ exampleyourauthorname:
   twitter: "@your twitter account"
 # you can add more authors bellow this comment
 #
+tazoulinis:
+  name: "Georgios Graikousis"
+  siterole: "SDY60 student"
+  uri: "http://www.topography.gr"
+  email: "g.graikousis@gmail.com"
+  twitter: ""
 nickkouk:
   name: "Nikolaos Kouklas"
   siterole: "scholar"
