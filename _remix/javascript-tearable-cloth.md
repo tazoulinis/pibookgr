@@ -1,0 +1,2 @@
+<p data-height="265" data-theme-id="0" data-slug-hash="KrAwx" data-default-tab="js,result" data-user="dissimulate" data-embed-version="2" data-pen-title="Tearable Cloth" class="codepen">See the Pen <a href="https://codepen.io/dissimulate/pen/KrAwx/">Tearable Cloth</a> by dissimulate (<a href="https://codepen.io/dissimulate">@dissimulate</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
