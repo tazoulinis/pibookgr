@@ -6,7 +6,7 @@ caption: ' o YouTube είναι ένας διαδικτυακός τόπος, ο
 license_url: https://el.wikipedia.org/wiki/YouTube
 license_text: wikipedia
 categories:
-  - multimedia
+  - models
 tags:
   - Video
 ---
