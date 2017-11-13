@@ -62,7 +62,7 @@ author: "epidrome"
 # This URL is the main adresse. Don't include a slash at the end.
 #
 url: "https://tazoulinis.github.io/pibookgr"
-baseurl: "pibookgr"
+baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -74,7 +74,7 @@ improve_content: https://github.com/pibook/pibookgr/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "/images/"
+urlimg: "pibookgr/images/"
 
 
 # Logo size is 600x80 pixels
