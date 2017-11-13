@@ -62,7 +62,7 @@ author: "epidrome"
 # This URL is the main adresse. Don't include a slash at the end.
 #
 url: ""
-baseurl: "edw_isos_na_ebaza_kati"
+baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
