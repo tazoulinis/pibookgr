@@ -120,7 +120,7 @@ exclude:
 
 defaults:
   - scope:
-      path: "pibookgr"
+      path: ""
       type: gallery
     values:
       layout: image
