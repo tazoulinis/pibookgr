@@ -123,7 +123,7 @@ defaults:
       path: ""
       type: gallery
     values:
-      layout: image
+      layout: /image
       header: no
       show_meta: true
   - scope:
