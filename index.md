@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  image_fullwidth: '/header.jpg'
+  image_fullwidth: 'header.jpg'
 widget-1:
   title: Βιογραφίες
   url: biography/
