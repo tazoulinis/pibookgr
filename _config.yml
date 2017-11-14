@@ -37,7 +37,7 @@ collections:
     permalink: /case-study/:path/
   gallery:
     output: true
-    permalink: /pibookgr/gallery/:path/
+    permalink: /gallery/:path/
   header:
     output: false
 
