@@ -37,7 +37,7 @@ collections:
     permalink: /case-study/:path/
   gallery:
     output: true
-    permalink: gallery/:path/
+    permalink: /gallery/:path/
   header:
     output: false
 
@@ -61,7 +61,7 @@ author: "epidrome"
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://www.pibook.gr"
+url: ""
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
