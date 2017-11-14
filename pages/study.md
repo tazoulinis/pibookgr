@@ -4,7 +4,7 @@ title: "Μελέτη"
 subheadline: ""
 show_meta: false
 teaser: ""
-permalink: "study/"
+permalink: "/study/"
 header: no
 ---
 
