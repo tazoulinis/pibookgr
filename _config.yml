@@ -31,7 +31,7 @@ collections:
     permalink: /bibliography/:path/
   biography:
     output: true
-    permalink: pibookgr/biography/:path/
+    permalink: pibookgr/biography/
   case-study:
     output: true
     permalink: /case-study/:path/
