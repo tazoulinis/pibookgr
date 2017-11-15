@@ -1,17 +1,16 @@
 ---
 layout: page
-title: Visualization dataset
+title: 3D Button Flip
 header: no
 categories:
-  - synthesis
+  - definition
+  - easy
 tags:
-  - visualization
-  - dataset
+  - button
 ---
 
-Διαδραστικό παράδειγμα γραφήματος χρησιμοποιώντας τη βιβλιοθήκη d3.js (http://d3js.org). Το παράδειγμα οπτικοποιεί 2 διαφορετικά σετ δεδομένων (datasets).
 
-<p data-height="350" data-theme-id="17517" data-slug-hash="vOoeGE" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/vOoeGE/'>D3 chart 2</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+Διαδραστικό παράδειγμα κώδικα που αναπαριστά ένα απλό button όπου στο αν γινει κλίκ επάνω περιστρέφεται γύρω απο τον ευατό του και δίνει την αίσθηση 3D
 
-Άσκηση: Τροποποιήστε τον κώδικα του παραδείγματος προσθέτοντας και οπτικοποιώντας στο ίδιο πλαίσιο περισσότερα από 2 σετ δεδομένων (datasets).
+<p data-height="333" data-theme-id="light" data-slug-hash="lEuLD" data-default-tab="css,result" data-user="rikschennink" data-embed-version="2" data-pen-title="3D flip button" class="codepen">See the Pen <a href="https://codepen.io/rikschennink/pen/lEuLD/">3D flip button</a> by Rik Schennink (<a href="https://codepen.io/rikschennink">@rikschennink</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
