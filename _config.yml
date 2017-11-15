@@ -31,13 +31,13 @@ collections:
     permalink: /bibliography/:path/
   biography:
     output: true
-    permalink: /biography/:path/
+    permalink: pibookgr/biography/:path/
   case-study:
     output: true
     permalink: /case-study/:path/
   gallery:
     output: true
-    permalink: /pibookgr/gallery/:path/
+    permalink: /gallery/:path
   header:
     output: false
 
