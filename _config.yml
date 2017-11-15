@@ -1,4 +1,4 @@
-# ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
+# ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
 #      _____ _ __          _____      __  __  _
 #     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
@@ -32,7 +32,7 @@ collections:
   biography:
     output: true
     permalink: /biography/:path/
-    case-study:
+  case-study:
     output: true
     permalink: /case-study/:path/
   gallery:
@@ -61,20 +61,20 @@ author: "epidrome"
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://tazoulinis.github.io/pibookgr"
+url: "http://www.pibook.gr"
 baseurl: ""
 
-# This is for the https://tazoulinis.github.io/pibookgr editing function in _/includes/improve_content.html
+# This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
 improve_content: https://github.com/pibook/pibookgr/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash.
 #
-# Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
-# Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
+# Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
+# Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "/pibookgr/images/"
+urlimg: "/images/"
 
 
 # Logo size is 600x80 pixels
@@ -85,7 +85,7 @@ logo: "logo.png"
 paginate: 5
 
 
-# Pagination path › Important for blog page in /blog/ to work
+# Pagination path › Important for blog page in /blog/ to work
 paginate_path: "blog/page:num"
 
 
@@ -197,7 +197,7 @@ msapplication_tilecolor:                "#fabb00"
 #      / ____/___ _________  / /_  ____  ____  / /__
 #     / /_  / __ `/ ___/ _ \/ __ \/ __ \/ __ \/ //_/
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
-#   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
+#   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
 og_image:                           "logo.png"
 og_locale:                          "en_US"
@@ -236,8 +236,8 @@ disqus_shortname:
 #      _____
 #     / ___/____ ___________
 #     \__ \/ __ `/ ___/ ___/
-#    ___/ / /_/ (__  |__  )     More › http://sass-lang.com/
-#   /____/\__,_/____/____/      More › http://jekyllrb.com/docs/assets/#sassscss
+#    ___/ / /_/ (__  |__  )     More › http://sass-lang.com/
+#   /____/\__,_/____/____/      More › http://jekyllrb.com/docs/assets/#sassscss
 #
 
 sass:
