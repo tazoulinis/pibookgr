@@ -3,7 +3,7 @@
   side: left
 
 - title: "ΕΙΚΟΝΕΣ"
-  url: "gallery/"
+  url: "/gallery/"
   side: left
 
 - title: "ΠΕΡΙΠΤΩΣΕΙΣ"
