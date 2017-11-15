@@ -61,8 +61,8 @@ author: "epidrome"
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: ""
-baseurl: "https://tazoulinis.github.io/pibookgr"
+url: "https://tazoulinis.github.io/pibookgr"
+baseurl: ""
 
 # This is for the https://tazoulinis.github.io/pibookgr editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
