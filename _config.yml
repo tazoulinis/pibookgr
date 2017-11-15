@@ -13,31 +13,31 @@
 collections:
   making:
     output: true
-    permalink: /pibookgr/making/
+    permalink: pibookgr/making/
   endorsements:
     output: true
-    permalink: /pibookgr/endorsements/
+    permalink: pibookgr/endorsements/
   quotes:
     output: true
-    permalink: /pibookgr/quotes/
+    permalink: pibookgr/quotes/
   remix:
     output: true
-    permalink: /pibookgr/remix/
+    permalink: pibookgr/remix/
   notes:
     output: true
-    permalink: /pibookgr/notes/
+    permalink: pibookgr/notes/
   bibliography:
     output: true
-    permalink: /pibookgr/bibliography/
+    permalink: pibookgr/bibliography/
   biography:
     output: true
-    permalink: /pibookgr/biography/
+    permalink: pibookgr/biography/
     case-study:
     output: true
-    permalink: /pibookgr/case-study/
+    permalink: pibookgr/case-study/
   gallery:
     output: true
-    permalink: /pibookgr/gallery/
+    permalink: pibookgr/gallery/
   header:
     output: false
 
